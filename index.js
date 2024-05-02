@@ -60,4 +60,4 @@ searchBtn.addEventListener("click", () => {
 //5. rewrite index.js (clean code + seperate concerns into functions OOP)  (DONE)
 //6. redo styling (add personal touch) ()
 //7. create .gitignore  (DONE)
-//8. push into gitHub as a practice project (dont forget mentions inspo)
+//8. push into gitHub as a practice project (dont forget mentions inspo) (DONE)
